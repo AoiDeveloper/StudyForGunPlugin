@@ -1,0 +1,4 @@
+name: GunStudy
+version: '${project.version}'
+main: com.gmail.aoibotowner.gunstudy.GunStudy
+api-version: 1.16
